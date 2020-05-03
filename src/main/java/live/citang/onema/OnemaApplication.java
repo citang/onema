@@ -8,6 +8,7 @@ public class OnemaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(OnemaApplication.class, args);
+        System.out.println("hi");
     }
 
 }
