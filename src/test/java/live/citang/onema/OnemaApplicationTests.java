@@ -1,4 +1,4 @@
-package com.citang.onema;
+package live.citang.onema;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

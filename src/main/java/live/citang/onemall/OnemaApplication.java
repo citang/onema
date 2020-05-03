@@ -1,4 +1,4 @@
-package com.citang.onema;
+package live.citang.onemall;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
