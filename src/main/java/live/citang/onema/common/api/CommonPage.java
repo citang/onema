@@ -5,9 +5,9 @@ import com.github.pagehelper.PageInfo;
 import java.util.List;
 
 /**
- * @Author: citang
- * @Date: 2020-05-04 06:56
- * @Description: MyBatis 分页封装
+ * @ Author: citang
+ * @ Date: 2020-05-04 06:56
+ * @ Description: MyBatis 分页封装
  */
 
 public class CommonPage<T> {
