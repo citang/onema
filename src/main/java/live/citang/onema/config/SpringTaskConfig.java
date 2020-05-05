@@ -1,14 +1,15 @@
 package live.citang.onema.config;
 
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
  * @Author: citang
- * @Date: 2020-05-04 06:30
+ * @Date: 2020-05-05 22:06
  * @Description: description what the main function of this file
  */
 @Configuration
-@MapperScan({"live.citang.onema.mbg.mapper", "live.citang.onema.dao"})
-public class MybatisConfig {
+@EnableScheduling
+public class SpringTaskConfig {
+
 }
